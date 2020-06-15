@@ -1,0 +1,54 @@
+
+.Login {
+    width: 50%;
+    /* border: 1px ridge black; */
+    padding: 4%;
+    margin-top:8%;
+    margin-left: 20%;
+    /* background-color:; */
+}
+
+.Email_Input {
+    margin-top: 20%;
+    margin-bottom: 1%;
+    margin-left: 22%;
+}
+
+.Password_Input {
+    margin-left: 22%;
+}
+h2{
+    font: 2em sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.Email_Lable {
+    margin-top: -1%;
+    margin-bottom: -19%;
+    margin-left: 22%;
+    
+}
+
+.Password_Lable {
+    margin-bottom: 1%;
+    margin-left: 22%;
+}
+.email {
+    height: 30px;
+    width: 60%;
+}
+.password {
+    height: 30px;
+    width: 60%;
+}
+.Sigin_In_Lable {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 20%;
+}
+.Sigin_up_Lable {
+    margin-top: -3%;
+    margin-bottom: -8%;
+    margin-left: 70%;
+}

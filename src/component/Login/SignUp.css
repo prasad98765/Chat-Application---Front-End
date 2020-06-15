@@ -1,0 +1,26 @@
+
+.abc {
+    margin-bottom: 5%;
+    margin-left: 30%;
+}
+.Sign_up {
+    margin-left: -1%;
+    
+}
+.backToLogin{
+    margin-left: 50%;
+}
+.text {
+    height: 30px;
+    width: 50%;
+}
+.OTP{
+    height: 25px;
+    width: 15%;
+    margin-left: 25%;
+    margin-top: 8%;
+}
+.Verify{
+    margin-left: 3%;
+    height: 30px;
+}
